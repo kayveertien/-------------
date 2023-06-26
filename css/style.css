@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body{
+    margin: 0;
+    paddding: 0;
+    background-color: #fff;
+    color: #000;
+    font-size: 16px;
+    /* line-height: */
+}
+
+global-nav{
+    min-height: auto;
+    padding-bottom: 0px;
+}
